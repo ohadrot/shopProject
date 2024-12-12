@@ -1,0 +1,16 @@
+.ProductFromCartList{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.ProductFromCartList button{
+    width: 1.5em;
+    height: 1.5em;
+    
+}
+
+.remove{
+    width: 20em;
+    height: 1.5em;
+}

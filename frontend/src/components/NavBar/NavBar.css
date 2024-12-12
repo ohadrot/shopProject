@@ -1,0 +1,19 @@
+.allBtn{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.navBar button{
+  
+    width: 12em;
+    height: 4em;
+}
+.cartBtn img{
+    width: 40%;
+}
+
+.cartDetails{
+    position: absolute;
+}
